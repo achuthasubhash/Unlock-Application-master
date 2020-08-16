@@ -4,4 +4,4 @@
 
 2.train model on collected images
 
-3.
+3.detect face using haarcascade and detect face send to model and get confidence of input face
